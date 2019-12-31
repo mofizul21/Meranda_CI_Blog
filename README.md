@@ -1,4 +1,4 @@
-# Meranda_CI_Blog
+# Meranda CodeIgniter Blog
 I have created a basic blog with CodeIgniter PHP Framework. The application is under-development. But you can use it. Gradually I'll improve the functionality of the application.
 
 **Features:**
